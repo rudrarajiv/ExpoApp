@@ -14,4 +14,16 @@
     <string name="subcat_url">http://192.168.1.224/~expohous/application/public/api/subcategory</string>
 
 
+    <!--intro slider-->
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="productrange">product_range</string>
+
+    <string name="slide_1_title">Welcome To</string>
+
+    <string name="slide_1_desc">Olive gained this present stature by marketing \noutstanding kitchen accessories in the market. \nNow we are moving on to strengthen our already \nformidable market presence by introducing wider \nranges of architectural hardware products. \n\nOur vision is to become a globally competitive \nmarket leader in the world of Kitchen Accessories \nand Architectural Hardware.
+    </string>
+
+
 </resources>
