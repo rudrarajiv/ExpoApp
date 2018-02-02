@@ -5,4 +5,13 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <!--image URL-->
+    <string name="url">http://192.168.1.224/~expohous/application/public/</string>
+
+    <!--Api URL-->
+    <string name="cat_url">http://192.168.1.224/~expohous/application/public/api/category</string>
+    <string name="subcat_url">http://192.168.1.224/~expohous/application/public/api/subcategory</string>
+
+
 </resources>
